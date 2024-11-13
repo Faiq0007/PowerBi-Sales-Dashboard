@@ -22,7 +22,6 @@ This project features an **interactive eCommerce dashboard** created in **Power 
 - **Return Rate by Category**: Heat maps and visual indicators offer a quick assessment of return frequency across different product categories.
 
 ## Contact
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/faiq-syed-7494b5197/]) to discuss this project further or to collaborate on similar data analytics initiatives.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faiq-syed-7494b5197/) to discuss this project further or to collaborate on similar data analytics initiatives.
 
 ---
-
